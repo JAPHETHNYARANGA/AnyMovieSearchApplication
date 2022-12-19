@@ -4,3 +4,4 @@ data class ModelItem(
     val score: Double,
     val show: Show
 )
+
